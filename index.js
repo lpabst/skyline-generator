@@ -31,7 +31,6 @@ function generateSkyline() {
   drawSky();
   drawGround();
   drawBuildings();
-  // drawBuilding(373, 38, 156);
 }
 
 function setupCanvas() {
